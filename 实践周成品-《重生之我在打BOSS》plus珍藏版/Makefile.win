@@ -1,0 +1,43 @@
+# Project: game
+# Makefile created by Dev-C++ 5.9.2
+
+CPP      = g++.exe
+CC       = gcc.exe
+WINDRES  = windres.exe
+OBJ      = main.o game.o move_print_attack.o person_attack.o thread_relevant.o variate.o
+LINKOBJ  = main.o game.o move_print_attack.o person_attack.o thread_relevant.o variate.o
+LIBS     = -L"D:/Dev-Cpp/devc++/Dev-Cpp/MinGW64/lib" -L"D:/Dev-Cpp/devc++/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc -leasyx -lwinmm
+INCS     = -I"D:/Dev-Cpp/devc++/Dev-Cpp/MinGW64/include" -I"D:/Dev-Cpp/devc++/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Dev-Cpp/devc++/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.8.1/include"
+CXXINCS  = -I"D:/Dev-Cpp/devc++/Dev-Cpp/MinGW64/include" -I"D:/Dev-Cpp/devc++/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Dev-Cpp/devc++/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.8.1/include" -I"D:/Dev-Cpp/devc++/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.8.1/include/c++"
+BIN      = game.exe
+CXXFLAGS = $(CXXINCS) 
+CFLAGS   = $(INCS) 
+RM       = rm.exe -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+main.o: main.cpp
+	$(CC) -c main.cpp -o main.o $(CFLAGS)
+
+game.o: game.c
+	$(CC) -c game.c -o game.o $(CFLAGS)
+
+move_print_attack.o: move_print_attack.c
+	$(CC) -c move_print_attack.c -o move_print_attack.o $(CFLAGS)
+
+person_attack.o: person_attack.c
+	$(CC) -c person_attack.c -o person_attack.o $(CFLAGS)
+
+thread_relevant.o: thread_relevant.c
+	$(CC) -c thread_relevant.c -o thread_relevant.o $(CFLAGS)
+
+variate.o: variate.c
+	$(CC) -c variate.c -o variate.o $(CFLAGS)
