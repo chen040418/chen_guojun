@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\A\u5927\u5B66\u4EE3\u7801\u96C6\u5408\\Visual Studio\\\u5927\u4E8C\u4E0A\\test\\C\u8BED\u8A00\u626B\u96F7\\",
+  "WorkspaceRootPath": "D:\\A\u5927\u5B66\u4EE3\u7801\u96C6\u5408\\GitHub\u4ED3\u5E93\u4EE3\u7801\\chen_guojun\\C\u8BED\u8A00\u626B\u96F7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0581FFBB-D181-4677-9D7A-1F6DD9C9DB04}|C\u8BED\u8A00\u626B\u96F7.vcxproj|D:\\A\u5927\u5B66\u4EE3\u7801\u96C6\u5408\\Visual Studio\\\u5927\u4E8C\u4E0A\\test\\C\u8BED\u8A00\u626B\u96F7\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0581FFBB-D181-4677-9D7A-1F6DD9C9DB04}|C\u8BED\u8A00\u626B\u96F7.vcxproj|solutionrelative:game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0581FFBB-D181-4677-9D7A-1F6DD9C9DB04}|C\u8BED\u8A00\u626B\u96F7.vcxproj|D:\\A\u5927\u5B66\u4EE3\u7801\u96C6\u5408\\Visual Studio\\\u5927\u4E8C\u4E0A\\test\\C\u8BED\u8A00\u626B\u96F7\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0581FFBB-D181-4677-9D7A-1F6DD9C9DB04}|C\u8BED\u8A00\u626B\u96F7.vcxproj|D:\\A\u5927\u5B66\u4EE3\u7801\u96C6\u5408\\GitHub\u4ED3\u5E93\u4EE3\u7801\\chen_guojun\\C\u8BED\u8A00\u626B\u96F7\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0581FFBB-D181-4677-9D7A-1F6DD9C9DB04}|C\u8BED\u8A00\u626B\u96F7.vcxproj|solutionrelative:game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0581FFBB-D181-4677-9D7A-1F6DD9C9DB04}|C\u8BED\u8A00\u626B\u96F7.vcxproj|D:\\A\u5927\u5B66\u4EE3\u7801\u96C6\u5408\\Visual Studio\\\u5927\u4E8C\u4E0A\\test\\C\u8BED\u8A00\u626B\u96F7\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0581FFBB-D181-4677-9D7A-1F6DD9C9DB04}|C\u8BED\u8A00\u626B\u96F7.vcxproj|D:\\A\u5927\u5B66\u4EE3\u7801\u96C6\u5408\\GitHub\u4ED3\u5E93\u4EE3\u7801\\chen_guojun\\C\u8BED\u8A00\u626B\u96F7\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0581FFBB-D181-4677-9D7A-1F6DD9C9DB04}|C\u8BED\u8A00\u626B\u96F7.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0581FFBB-D181-4677-9D7A-1F6DD9C9DB04}|C\u8BED\u8A00\u626B\u96F7.vcxproj|D:\\A\u5927\u5B66\u4EE3\u7801\u96C6\u5408\\GitHub\u4ED3\u5E93\u4EE3\u7801\\chen_guojun\\C\u8BED\u8A00\u626B\u96F7\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0581FFBB-D181-4677-9D7A-1F6DD9C9DB04}|C\u8BED\u8A00\u626B\u96F7.vcxproj|solutionrelative:game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,40 +34,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "game.c",
-              "DocumentMoniker": "D:\\A\u5927\u5B66\u4EE3\u7801\u96C6\u5408\\Visual Studio\\\u5927\u4E8C\u4E0A\\test\\C\u8BED\u8A00\u626B\u96F7\\game.c",
+              "DocumentMoniker": "D:\\A\u5927\u5B66\u4EE3\u7801\u96C6\u5408\\GitHub\u4ED3\u5E93\u4EE3\u7801\\chen_guojun\\C\u8BED\u8A00\u626B\u96F7\\game.c",
               "RelativeDocumentMoniker": "game.c",
-              "ToolTip": "D:\\A\u5927\u5B66\u4EE3\u7801\u96C6\u5408\\Visual Studio\\\u5927\u4E8C\u4E0A\\test\\C\u8BED\u8A00\u626B\u96F7\\game.c",
+              "ToolTip": "D:\\A\u5927\u5B66\u4EE3\u7801\u96C6\u5408\\GitHub\u4ED3\u5E93\u4EE3\u7801\\chen_guojun\\C\u8BED\u8A00\u626B\u96F7\\game.c",
               "RelativeToolTip": "game.c",
-              "ViewState": "AQIAAEgAAAAAAAAAAAA0wI4AAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-11-14T11:18:50.991Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "game.h",
-              "DocumentMoniker": "D:\\A\u5927\u5B66\u4EE3\u7801\u96C6\u5408\\Visual Studio\\\u5927\u4E8C\u4E0A\\test\\C\u8BED\u8A00\u626B\u96F7\\game.h",
+              "DocumentMoniker": "D:\\A\u5927\u5B66\u4EE3\u7801\u96C6\u5408\\GitHub\u4ED3\u5E93\u4EE3\u7801\\chen_guojun\\C\u8BED\u8A00\u626B\u96F7\\game.h",
               "RelativeDocumentMoniker": "game.h",
-              "ToolTip": "D:\\A\u5927\u5B66\u4EE3\u7801\u96C6\u5408\\Visual Studio\\\u5927\u4E8C\u4E0A\\test\\C\u8BED\u8A00\u626B\u96F7\\game.h",
+              "ToolTip": "D:\\A\u5927\u5B66\u4EE3\u7801\u96C6\u5408\\GitHub\u4ED3\u5E93\u4EE3\u7801\\chen_guojun\\C\u8BED\u8A00\u626B\u96F7\\game.h",
               "RelativeToolTip": "game.h",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAA5AAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAcwB0AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-14T11:18:41.625Z"
+              "WhenOpened": "2024-11-14T11:18:41.625Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "main.c",
-              "DocumentMoniker": "D:\\A\u5927\u5B66\u4EE3\u7801\u96C6\u5408\\Visual Studio\\\u5927\u4E8C\u4E0A\\test\\C\u8BED\u8A00\u626B\u96F7\\main.c",
+              "DocumentMoniker": "D:\\A\u5927\u5B66\u4EE3\u7801\u96C6\u5408\\GitHub\u4ED3\u5E93\u4EE3\u7801\\chen_guojun\\C\u8BED\u8A00\u626B\u96F7\\main.c",
               "RelativeDocumentMoniker": "main.c",
-              "ToolTip": "D:\\A\u5927\u5B66\u4EE3\u7801\u96C6\u5408\\Visual Studio\\\u5927\u4E8C\u4E0A\\test\\C\u8BED\u8A00\u626B\u96F7\\main.c",
+              "ToolTip": "D:\\A\u5927\u5B66\u4EE3\u7801\u96C6\u5408\\GitHub\u4ED3\u5E93\u4EE3\u7801\\chen_guojun\\C\u8BED\u8A00\u626B\u96F7\\main.c",
               "RelativeToolTip": "main.c",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-11-14T11:18:27.316Z"
+              "WhenOpened": "2024-11-14T11:18:27.316Z",
+              "EditorCaption": ""
             }
           ]
         }
